@@ -181,7 +181,6 @@ a:link, a:visited, a:hover, a:active{
 	white-space: nowrap;
 	font-size: 1.2rem;
 }
-
 .article-box{
 	position: relative;
 	display: block;
@@ -222,25 +221,19 @@ a:link, a:visited, a:hover, a:active{
 	font-weight: bold;
 	font-size: 1.1rem;
 }
-
 .article-box .image{
 	position: absolute;
 	top: 0;
 	left: 0;
 	width: 100%;
 }
-
 .article-box:nth-of-type(odd){
 	float: left;
 }
 .article-box:nth-of-type(even){
 	float: right;
 }
-
-.sidemenu{
 	float: right;
-	width: 275px;
-}
 .ranking{
 	margin-bottom: 30px;
 	list-style-type: none;
